@@ -4,13 +4,12 @@
 // },
 // "Hello World from React!");
 
-// If I want to print the below tags in React
-{/* <div id="parent">
+/* <div id="parent">
     <div id="child">
         <h1>I am h1 tag</h1>
         <h2>I am h2 tag</h2>
     </div>
-    </div> */}
+    </div> */
 
 
 const parent = React.createElement(
